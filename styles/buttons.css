@@ -1,0 +1,43 @@
+.btn-green{
+    background-color: #425c24;
+    padding: 10px;
+    color: #ffffff;
+    font-weight: bold;
+    border-radius: 6px;
+    display: block;
+    width: 10%;
+    border: 1px solid #425C24;
+    transition: 1s;
+    text-align: center;
+    font-family: roboto;
+    margin-top: 150px;
+}
+
+.btn-green:hover {
+  background-color: transparent;
+  color: black;
+  transition: 1s;
+}
+
+.btn-actividades{
+    background-color: #425c24;
+    padding: 10px;
+    color: #ffffff;
+    font-weight: bold;
+    border-radius: 6px;
+    display: block;
+    width: 17%;
+    border: 1px solid #425C24;
+    transition: 1s;
+    text-align: center;
+    font-family: roboto;
+    margin: 20px;
+    align-content: center;
+    alignment-baseline: center;
+}
+
+.btn-actividades:hover {
+  background-color: transparent;
+  color: black;
+  transition: 1s;
+}
